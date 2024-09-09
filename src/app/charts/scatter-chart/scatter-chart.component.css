@@ -1,0 +1,9 @@
+.chart-container {
+    height: 220px;
+    width: 100%;
+  }
+
+  canvas {
+    height: 100% !important;
+    width: 100% !important;
+  }
